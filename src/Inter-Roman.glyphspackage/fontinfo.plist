@@ -1,5 +1,5 @@
 {
-.appVersion = "3151";
+.appVersion = "3246";
 .formatVersion = 3;
 axes = (
 {
@@ -2539,17 +2539,17 @@ opsz = {
 wght = {
 100 = 100;
 400 = 400;
-500 = 490;
-600 = 580;
-700 = 670;
-800 = 780;
+490 = 500;
+580 = 600;
+670 = 700;
+780 = 800;
 900 = 900;
 };
 };
 }
 );
 date = "2016-12-04 18:21:54 +0000";
-familyName = Inter;
+familyName = Interface;
 featurePrefixes = (
 {
 code = "languagesystem DFLT dflt;
@@ -3577,12 +3577,12 @@ pos = 2712;
 size = 16;
 },
 {
-pos = "-544";
-size = "-64";
+pos = -544;
+size = -64;
 },
 {
-pos = "-664";
-size = "-16";
+pos = -664;
+size = -16;
 }
 );
 },
@@ -3726,12 +3726,12 @@ pos = 2712;
 size = 16;
 },
 {
-pos = "-544";
-size = "-64";
+pos = -544;
+size = -64;
 },
 {
-pos = "-664";
-size = "-16";
+pos = -664;
+size = -16;
 }
 );
 },
@@ -3876,12 +3876,12 @@ pos = 2712;
 size = 16;
 },
 {
-pos = "-544";
-size = "-64";
+pos = -544;
+size = -64;
 },
 {
-pos = "-664";
-size = "-16";
+pos = -664;
+size = -16;
 }
 );
 },
@@ -4016,12 +4016,12 @@ pos = 2712;
 size = 16;
 },
 {
-pos = "-544";
-size = "-64";
+pos = -544;
+size = -64;
 },
 {
-pos = "-664";
-size = "-16";
+pos = -664;
+size = -16;
 }
 );
 },
@@ -4157,12 +4157,12 @@ pos = 2712;
 size = 16;
 },
 {
-pos = "-544";
-size = "-64";
+pos = -544;
+size = -64;
 },
 {
-pos = "-664";
-size = "-16";
+pos = -664;
+size = -16;
 }
 );
 },
@@ -4306,12 +4306,12 @@ pos = 2712;
 size = 16;
 },
 {
-pos = "-544";
-size = "-64";
+pos = -544;
+size = -64;
 },
 {
-pos = "-664";
-size = "-16";
+pos = -664;
+size = -16;
 }
 );
 },
@@ -4772,14 +4772,6 @@ m011 = 1;
 name = Thin;
 properties = (
 {
-key = WWSFamilyName;
-value = "Inter Display";
-},
-{
-key = WWSSubfamilyName;
-value = Thin;
-},
-{
 key = familyNames;
 values = (
 {
@@ -4787,6 +4779,14 @@ language = dflt;
 value = "Inter Display";
 }
 );
+},
+{
+key = WWSFamilyName;
+value = "Inter Display";
+},
+{
+key = WWSSubfamilyName;
+value = Thin;
 }
 );
 weightClass = 100;
@@ -4824,14 +4824,6 @@ m011 = 0.66667;
 name = ExtraLight;
 properties = (
 {
-key = WWSFamilyName;
-value = "Inter Display";
-},
-{
-key = WWSSubfamilyName;
-value = ExtraLight;
-},
-{
 key = familyNames;
 values = (
 {
@@ -4839,6 +4831,14 @@ language = dflt;
 value = "Inter Display";
 }
 );
+},
+{
+key = WWSFamilyName;
+value = "Inter Display";
+},
+{
+key = WWSSubfamilyName;
+value = ExtraLight;
 }
 );
 weightClass = 200;
@@ -4876,14 +4876,6 @@ m011 = 0.33333;
 name = Light;
 properties = (
 {
-key = WWSFamilyName;
-value = "Inter Display";
-},
-{
-key = WWSSubfamilyName;
-value = Light;
-},
-{
 key = familyNames;
 values = (
 {
@@ -4891,6 +4883,14 @@ language = dflt;
 value = "Inter Display";
 }
 );
+},
+{
+key = WWSFamilyName;
+value = "Inter Display";
+},
+{
+key = WWSSubfamilyName;
+value = Light;
 }
 );
 weightClass = 300;
@@ -4978,14 +4978,6 @@ m009 = 0.18;
 name = Medium;
 properties = (
 {
-key = WWSFamilyName;
-value = "Inter Display";
-},
-{
-key = WWSSubfamilyName;
-value = Medium;
-},
-{
 key = familyNames;
 values = (
 {
@@ -4993,6 +4985,14 @@ language = dflt;
 value = "Inter Display";
 }
 );
+},
+{
+key = WWSFamilyName;
+value = "Inter Display";
+},
+{
+key = WWSSubfamilyName;
+value = Medium;
 }
 );
 weightClass = 500;
@@ -5030,14 +5030,6 @@ m009 = 0.36;
 name = SemiBold;
 properties = (
 {
-key = WWSFamilyName;
-value = "Inter Display";
-},
-{
-key = WWSSubfamilyName;
-value = SemiBold;
-},
-{
 key = familyNames;
 values = (
 {
@@ -5045,6 +5037,14 @@ language = dflt;
 value = "Inter Display";
 }
 );
+},
+{
+key = WWSFamilyName;
+value = "Inter Display";
+},
+{
+key = WWSSubfamilyName;
+value = SemiBold;
 }
 );
 weightClass = 600;
@@ -5136,14 +5136,6 @@ m009 = 0.76;
 name = ExtraBold;
 properties = (
 {
-key = WWSFamilyName;
-value = "Inter Display";
-},
-{
-key = WWSSubfamilyName;
-value = ExtraBold;
-},
-{
 key = familyNames;
 values = (
 {
@@ -5151,6 +5143,14 @@ language = dflt;
 value = "Inter Display";
 }
 );
+},
+{
+key = WWSFamilyName;
+value = "Inter Display";
+},
+{
+key = WWSSubfamilyName;
+value = ExtraBold;
 }
 );
 weightClass = 800;
@@ -5187,14 +5187,6 @@ m009 = 1;
 name = Black;
 properties = (
 {
-key = WWSFamilyName;
-value = "Inter Display";
-},
-{
-key = WWSSubfamilyName;
-value = Black;
-},
-{
 key = familyNames;
 values = (
 {
@@ -5202,6 +5194,14 @@ language = dflt;
 value = "Inter Display";
 }
 );
+},
+{
+key = WWSFamilyName;
+value = "Inter Display";
+},
+{
+key = WWSSubfamilyName;
+value = Black;
 }
 );
 weightClass = 900;
@@ -16149,25 +16149,12 @@ key = designers;
 values = (
 {
 language = dflt;
-value = "Rasmus Andersson";
+value = "Andreas Faust, Stefan Endress";
 }
 );
 },
 {
 key = designerURL;
-value = "https://rsms.me/";
-},
-{
-key = manufacturers;
-values = (
-{
-language = dflt;
-value = rsms;
-}
-);
-},
-{
-key = manufacturerURL;
 value = "https://rsms.me/";
 },
 {
@@ -16184,8 +16171,17 @@ key = licenseURL;
 value = "http://scripts.sil.org/OFL";
 },
 {
-key = vendorID;
-value = RSMS;
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = rsms;
+}
+);
+},
+{
+key = manufacturerURL;
+value = "https://rsms.me/";
 },
 {
 key = trademarks;
@@ -16195,6 +16191,10 @@ language = dflt;
 value = "Inter UI and Inter is a trademark of rsms.";
 }
 );
+},
+{
+key = vendorID;
+value = RSMS;
 }
 );
 settings = {

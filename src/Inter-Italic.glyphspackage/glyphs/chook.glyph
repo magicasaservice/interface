@@ -11,7 +11,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (824,-5);
+pos = (824,-55);
 ref = _part.top_r_hook_c;
 }
 );
@@ -25,7 +25,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (712,0);
+pos = (712,-55);
 ref = _part.top_r_hook_c;
 }
 );
@@ -39,11 +39,11 @@ shapes = (
 ref = c;
 },
 {
-pos = (859,-1);
+pos = (858,-1);
 ref = _part.top_r_hook_c;
 }
 );
-width = 1095;
+width = 1094;
 },
 {
 layerId = m008;

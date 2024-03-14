@@ -15,9 +15,11 @@ pos = (322,2136);
 layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
 shapes = (
 {
+alignment = -1;
 ref = idotless;
 },
 {
+alignment = -1;
 pos = (1,0);
 ref = dotaccentcomb.ss07;
 }
@@ -29,9 +31,11 @@ associatedMasterId = "200BE2C5-40F6-4CF4-AF4F-A33C0CC0964F";
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 shapes = (
 {
+alignment = -1;
 ref = idotless;
 },
 {
+alignment = -1;
 pos = (-33,0);
 ref = dotaccentcomb.ss07;
 }
@@ -50,7 +54,7 @@ pos = (34,0);
 ref = dotaccentcomb.ss07;
 }
 );
-width = 442;
+width = 443;
 },
 {
 associatedMasterId = "200BE2C5-40F6-4CF4-AF4F-A33C0CC0964F";
@@ -64,9 +68,11 @@ ref = i;
 layerId = m007;
 shapes = (
 {
+alignment = -1;
 ref = idotless;
 },
 {
+alignment = -1;
 pos = (-1,0);
 ref = dotaccentcomb.ss07;
 }
@@ -78,9 +84,11 @@ associatedMasterId = "200BE2C5-40F6-4CF4-AF4F-A33C0CC0964F";
 layerId = m009;
 shapes = (
 {
+alignment = -1;
 ref = idotless;
 },
 {
+alignment = -1;
 pos = (-34,0);
 ref = dotaccentcomb.ss07;
 }
@@ -92,9 +100,11 @@ associatedMasterId = "200BE2C5-40F6-4CF4-AF4F-A33C0CC0964F";
 layerId = m011;
 shapes = (
 {
+alignment = -1;
 ref = idotless;
 },
 {
+alignment = -1;
 pos = (34,0);
 ref = dotaccentcomb.ss07;
 }

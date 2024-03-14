@@ -354,8 +354,8 @@ angle = 7.9575;
 pos = (1036,1320);
 },
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (1036,528);
 },
 {
@@ -424,8 +424,8 @@ pos = (1111,688);
 );
 guides = (
 {
-orientation = center;
 angle = 80.6;
+orientation = center;
 pos = (-7201,528);
 }
 );
@@ -570,8 +570,8 @@ ref = C;
 };
 guides = (
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (-3768,528);
 }
 );

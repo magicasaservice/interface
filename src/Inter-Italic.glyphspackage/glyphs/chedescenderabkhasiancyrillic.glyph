@@ -9,7 +9,7 @@ shapes = (
 ref = cheabkhasiancyrillic;
 },
 {
-pos = (583,0);
+pos = (582,0);
 ref = cedillacomb;
 }
 );
@@ -22,7 +22,7 @@ shapes = (
 ref = cheabkhasiancyrillic;
 },
 {
-pos = (519,0);
+pos = (511,0);
 ref = cedillacomb;
 }
 );
@@ -35,7 +35,7 @@ shapes = (
 ref = cheabkhasiancyrillic;
 },
 {
-pos = (432,0);
+pos = (430,0);
 ref = cedillacomb;
 }
 );
@@ -48,7 +48,7 @@ shapes = (
 ref = cheabkhasiancyrillic;
 },
 {
-pos = (629,0);
+pos = (623,0);
 ref = cedillacomb;
 }
 );
@@ -61,7 +61,7 @@ shapes = (
 ref = cheabkhasiancyrillic;
 },
 {
-pos = (542,0);
+pos = (541,0);
 ref = cedillacomb;
 }
 );
@@ -74,7 +74,7 @@ shapes = (
 ref = cheabkhasiancyrillic;
 },
 {
-pos = (524,0);
+pos = (521,0);
 ref = cedillacomb;
 }
 );

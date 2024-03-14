@@ -9,10 +9,11 @@ layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
 metricRight = "=+240";
 shapes = (
 {
-alignment = 1;
+alignment = -1;
 ref = l.ss02;
 },
 {
+alignment = -1;
 pos = (242,41);
 ref = periodcentered.ss07;
 }
@@ -25,10 +26,11 @@ layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 metricRight = "=+470";
 shapes = (
 {
-alignment = 1;
+alignment = -1;
 ref = l.ss02;
 },
 {
+alignment = -1;
 pos = (226,41);
 ref = periodcentered.ss07;
 }
@@ -45,7 +47,7 @@ alignment = 1;
 ref = l.ss02;
 },
 {
-pos = (178,48);
+pos = (172,48);
 ref = periodcentered.ss07;
 }
 );
@@ -57,10 +59,11 @@ layerId = m007;
 metricRight = "=+250";
 shapes = (
 {
-alignment = 1;
+alignment = -1;
 ref = l.ss02;
 },
 {
+alignment = -1;
 pos = (298,41);
 ref = periodcentered.ss07;
 }
@@ -73,10 +76,11 @@ layerId = m009;
 metricRight = "=+440";
 shapes = (
 {
-alignment = 1;
+alignment = -1;
 ref = l.ss02;
 },
 {
+alignment = -1;
 pos = (338,41);
 ref = periodcentered.ss07;
 }
@@ -89,10 +93,11 @@ layerId = m011;
 metricRight = "=+100";
 shapes = (
 {
-alignment = 1;
+alignment = -1;
 ref = l.ss02;
 },
 {
+alignment = -1;
 pos = (250,52);
 ref = periodcentered.ss07;
 }

@@ -25,7 +25,7 @@ shapes = (
 ref = s;
 },
 {
-pos = (-14,-12);
+pos = (-14,16);
 ref = _part.bottom_rthook_s;
 }
 );

@@ -10,11 +10,11 @@ shapes = (
 ref = c;
 },
 {
-pos = (347,0);
+pos = (328,0);
 ref = cedillacomb;
 },
 {
-pos = (366,0);
+pos = (370,-62);
 ref = acutecomb;
 }
 );
@@ -95,7 +95,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (377,0);
+pos = (365,0);
 ref = cedillacomb;
 },
 {

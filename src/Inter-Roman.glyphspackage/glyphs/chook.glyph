@@ -11,7 +11,7 @@ alignment = -1;
 ref = c;
 },
 {
-pos = (826,0);
+pos = (818,-49);
 ref = _part.top_r_hook_c;
 }
 );
@@ -25,7 +25,7 @@ alignment = -1;
 ref = c;
 },
 {
-pos = (711,0);
+pos = (711,-54);
 ref = _part.top_r_hook_c;
 }
 );
@@ -39,7 +39,7 @@ alignment = -1;
 ref = c;
 },
 {
-pos = (860,0);
+pos = (880,-105);
 ref = _part.top_r_hook_c;
 }
 );

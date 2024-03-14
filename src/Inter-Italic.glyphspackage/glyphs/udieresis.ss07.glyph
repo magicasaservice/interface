@@ -9,9 +9,11 @@ associatedMasterId = "200BE2C5-40F6-4CF4-AF4F-A33C0CC0964F";
 layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
 shapes = (
 {
+alignment = -1;
 ref = u;
 },
 {
+alignment = -1;
 pos = (86,0);
 ref = dieresiscomb.ss07;
 }
@@ -23,9 +25,11 @@ associatedMasterId = "200BE2C5-40F6-4CF4-AF4F-A33C0CC0964F";
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 shapes = (
 {
+alignment = -1;
 ref = u;
 },
 {
+alignment = -1;
 pos = (26,0);
 ref = dieresiscomb.ss07;
 }
@@ -37,9 +41,11 @@ associatedMasterId = "200BE2C5-40F6-4CF4-AF4F-A33C0CC0964F";
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 shapes = (
 {
+alignment = -1;
 ref = u;
 },
 {
+alignment = -1;
 pos = (93,0);
 ref = dieresiscomb.ss07;
 }
@@ -51,9 +57,11 @@ associatedMasterId = "200BE2C5-40F6-4CF4-AF4F-A33C0CC0964F";
 layerId = m007;
 shapes = (
 {
+alignment = -1;
 ref = u;
 },
 {
+alignment = -1;
 pos = (131,62);
 ref = dieresiscomb.ss07;
 }
@@ -65,9 +73,11 @@ associatedMasterId = "200BE2C5-40F6-4CF4-AF4F-A33C0CC0964F";
 layerId = m009;
 shapes = (
 {
+alignment = -1;
 ref = u;
 },
 {
+alignment = -1;
 pos = (58,62);
 ref = dieresiscomb.ss07;
 }
@@ -79,9 +89,11 @@ associatedMasterId = "200BE2C5-40F6-4CF4-AF4F-A33C0CC0964F";
 layerId = m011;
 shapes = (
 {
+alignment = -1;
 ref = u;
 },
 {
+alignment = -1;
 pos = (157,62);
 ref = dieresiscomb.ss07;
 }

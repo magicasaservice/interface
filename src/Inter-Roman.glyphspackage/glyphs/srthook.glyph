@@ -10,7 +10,7 @@ shapes = (
 ref = s;
 },
 {
-pos = (44,0);
+pos = (50,43);
 ref = _part.bottom_rthook_s;
 }
 );
@@ -23,7 +23,7 @@ shapes = (
 ref = s;
 },
 {
-pos = (0,-1);
+pos = (8,42);
 ref = _part.bottom_rthook_s;
 }
 );
