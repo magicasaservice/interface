@@ -2546,10 +2546,14 @@ wght = {
 900 = 900;
 };
 };
+},
+{
+name = "Use Extension Kerning";
+value = 1;
 }
 );
 date = "2016-12-04 18:21:54 +0000";
-familyName = Inter;
+familyName = "Interface Italic";
 featurePrefixes = (
 {
 code = "languagesystem DFLT dflt;
@@ -4489,7 +4493,7 @@ instanceInterpolations = {
 };
 isItalic = 1;
 linkStyle = ExtraLight;
-name = "ExtraLight Italic";
+name = "Ultralight Italic";
 properties = (
 {
 key = WWSFamilyName;
@@ -4497,7 +4501,7 @@ value = Inter;
 },
 {
 key = WWSSubfamilyName;
-value = "ExtraLight Italic";
+value = "Ultralight Italic";
 }
 );
 weightClass = 200;
@@ -4578,6 +4582,39 @@ instanceInterpolations = {
 };
 isItalic = 1;
 name = Italic;
+},
+{
+axesValues = (
+14,
+445
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+0,
+5,
+3,
+0,
+0,
+0,
+2,
+0,
+4
+);
+},
+{
+name = italicAngle;
+value = "9.4";
+}
+);
+instanceInterpolations = {
+"11F4534A-B963-4AB5-820F-DAF9A20CD933" = 0.91;
+"D0EC06BF-13F9-4C88-A6F5-B8203AF6C77E" = 0.09;
+};
+isItalic = 1;
+name = "Text Italic";
 },
 {
 axesValues = (
@@ -4737,7 +4774,7 @@ instanceInterpolations = {
 };
 isItalic = 1;
 linkStyle = ExtraBold;
-name = "ExtraBold Italic";
+name = "Heavy Italic";
 properties = (
 {
 key = WWSFamilyName;
@@ -4745,7 +4782,7 @@ value = Inter;
 },
 {
 key = WWSSubfamilyName;
-value = "ExtraBold Italic";
+value = "Heavy Italic";
 }
 );
 weightClass = 800;
@@ -4886,7 +4923,7 @@ m012 = 0.66667;
 };
 isItalic = 1;
 linkStyle = ExtraLight;
-name = "ExtraLight Italic";
+name = "Ultralight Italic";
 properties = (
 {
 key = familyNames;
@@ -4903,7 +4940,7 @@ value = "Inter Display";
 },
 {
 key = WWSSubfamilyName;
-value = "ExtraLight Italic";
+value = "Ultralight Italic";
 }
 );
 weightClass = 200;
@@ -5000,7 +5037,7 @@ instanceInterpolations = {
 m008 = 1;
 };
 isItalic = 1;
-name = Italic;
+name = "Regular Italic";
 properties = (
 {
 key = familyNames;
@@ -5018,6 +5055,62 @@ value = "Inter Display";
 {
 key = WWSSubfamilyName;
 value = Italic;
+}
+);
+},
+{
+axesValues = (
+32,
+445
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+0,
+5,
+3,
+0,
+0,
+0,
+2,
+0,
+4
+);
+},
+{
+name = italicAngle;
+value = "9.4";
+},
+{
+name = "Has WWS Names";
+value = 0;
+}
+);
+instanceInterpolations = {
+m008 = 0.91;
+m010 = 0.09;
+};
+isItalic = 1;
+name = "Text Italic";
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Inter Display";
+}
+);
+},
+{
+key = WWSFamilyName;
+value = "Inter Display";
+},
+{
+key = WWSSubfamilyName;
+value = "Text Italic";
 }
 );
 },
@@ -5115,7 +5208,7 @@ m010 = 0.36;
 };
 isItalic = 1;
 linkStyle = SemiBold;
-name = "SemiBold Italic";
+name = "Semibold Italic";
 properties = (
 {
 key = familyNames;
@@ -5132,7 +5225,7 @@ value = "Inter Display";
 },
 {
 key = WWSSubfamilyName;
-value = "SemiBold Italic";
+value = "Semibold Italic";
 }
 );
 weightClass = 600;
@@ -5232,7 +5325,7 @@ m010 = 0.76;
 };
 isItalic = 1;
 linkStyle = ExtraBold;
-name = "ExtraBold Italic";
+name = "Heavy Italic";
 properties = (
 {
 key = familyNames;
@@ -5249,7 +5342,7 @@ value = "Inter Display";
 },
 {
 key = WWSSubfamilyName;
-value = "ExtraBold Italic";
+value = "Heavy Italic";
 }
 );
 weightClass = 800;
