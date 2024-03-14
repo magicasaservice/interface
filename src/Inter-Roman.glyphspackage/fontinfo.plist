@@ -2549,7 +2549,7 @@ wght = {
 }
 );
 date = "2016-12-04 18:21:54 +0000";
-familyName = Interface;
+familyName = Inter;
 featurePrefixes = (
 {
 code = "languagesystem DFLT dflt;

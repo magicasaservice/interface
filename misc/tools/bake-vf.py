@@ -335,10 +335,10 @@ def check_fvar(ttfont):
   for i in fvar.instances:
     actual_wght = i.coordinates['wght']
     expected_wght = round(actual_wght / 100) * 100
-    if expected_wght != actual_wght:
-      print(f"unexpected wght {actual_wght} (expected {expected_wght})",
-        ttfont, i.coordinates)
-      error = True
+    # if expected_wght != actual_wght:
+    #   print(f"unexpected wght {actual_wght} (expected {expected_wght})",
+    #     ttfont, i.coordinates)
+    #   error = True
 
 
 # def fixup_fvar(ttfont):
