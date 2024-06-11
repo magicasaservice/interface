@@ -4503,6 +4503,10 @@ properties = (
 {
 key = WWSFamilyName;
 value = "Interface Text";
+},
+{
+key = WWSSubfamilyName;
+value = Regular;
 }
 );
 },
@@ -4520,6 +4524,10 @@ properties = (
 {
 key = WWSFamilyName;
 value = "Interface Text";
+},
+{
+key = WWSSubfamilyName;
+value = Text;
 }
 );
 },
@@ -4583,6 +4591,10 @@ properties = (
 {
 key = WWSFamilyName;
 value = "Interface Text";
+},
+{
+key = WWSSubfamilyName;
+value = Bold;
 }
 );
 weightClass = 700;
