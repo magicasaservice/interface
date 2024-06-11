@@ -2552,7 +2552,7 @@ name = "Use Extension Kerning";
 value = 1;
 }
 );
-date = "2024-06-11 21:13:17 +0000";
+date = "2024-06-11 21:34:08 +0000";
 familyName = Interface;
 featurePrefixes = (
 {
@@ -16032,6 +16032,6 @@ com.typemytype.robofont.shouldAddPointsInSplineConversion = 1;
 };
 UFOFormat = 3;
 };
-versionMajor = 3;
-versionMinor = 3;
+versionMajor = 1;
+versionMinor = 1;
 }
