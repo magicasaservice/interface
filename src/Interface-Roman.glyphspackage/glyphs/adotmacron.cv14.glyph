@@ -1,0 +1,108 @@
+{
+color = 9;
+glyphname = adotmacron.cv14;
+layers = (
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = a.cv14;
+},
+{
+pos = (340,0);
+ref = dotaccentcomb;
+},
+{
+pos = (126,349);
+ref = macroncomb;
+}
+);
+width = 1076;
+},
+{
+layerId = m011;
+shapes = (
+{
+ref = a.cv14;
+},
+{
+pos = (364,0);
+ref = dotaccentcomb;
+},
+{
+pos = (102,369);
+ref = macroncomb;
+}
+);
+width = 1004;
+},
+{
+layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+shapes = (
+{
+ref = a.cv14;
+},
+{
+pos = (311,0);
+ref = dotaccentcomb;
+},
+{
+pos = (69,421);
+ref = macroncomb;
+}
+);
+width = 1150;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = a.cv14;
+},
+{
+pos = (312,0);
+ref = dotaccentcomb;
+},
+{
+pos = (108,438);
+ref = macroncomb;
+}
+);
+width = 1060;
+},
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = a.cv14;
+},
+{
+pos = (282,0);
+ref = dotaccentcomb;
+},
+{
+pos = (200,482);
+ref = macroncomb;
+}
+);
+width = 1222;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = a.cv14;
+},
+{
+pos = (272,0);
+ref = dotaccentcomb;
+},
+{
+pos = (207,475);
+ref = macroncomb;
+}
+);
+width = 1194;
+}
+);
+}

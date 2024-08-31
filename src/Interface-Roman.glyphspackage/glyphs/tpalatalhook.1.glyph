@@ -12,7 +12,7 @@ alignment = 1;
 ref = t.1;
 },
 {
-pos = (76,-1);
+pos = (39,-7);
 ref = _part.bottom_lfthook_t;
 }
 );
@@ -26,7 +26,7 @@ alignment = 1;
 ref = t.1;
 },
 {
-pos = (-22,-3);
+pos = (-70,-18);
 ref = _part.bottom_lfthook_t;
 }
 );
