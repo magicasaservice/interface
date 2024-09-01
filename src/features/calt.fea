@@ -1,6 +1,62 @@
 # -------------------------------------------------------------------------------------
 # BEGIN glyph class definitions
 
+@Whitespace = [
+  space
+  nbspace
+  narrownbspace
+  mediumspace-math
+  enquad
+  emquad
+  enspace
+  emspace
+  thirdemspace
+  quarteremspace
+  sixthemspace
+  figurespace
+  punctuationspace
+  thinspace
+  hairspace
+  zerowidthspace
+];
+
+@Numeral = [
+  zero
+  one
+  two
+  twostroke
+  three
+  four
+  five
+  Tonefive
+  six
+  seven
+  eight
+  nine
+  zero.slash
+  one.ss01
+  three.1
+  four.ss01
+  six.ss01
+  nine.ss01
+  zero.tf
+  one.tf
+  two.tf
+  three.tf
+  four.tf
+  five.tf
+  six.tf
+  seven.tf
+  eight.tf
+  nine.tf
+  zero.tf.slash
+  one.tf.ss01
+  three.1.tf
+  four.tf.ss01
+  six.tf.ss01
+  nine.tf.ss01
+];
+
 @DASH = [
   hyphen
   endash
