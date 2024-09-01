@@ -4512,10 +4512,18 @@ c2sp
 },
 {
 name = "Export Folder";
-value = haasy;
+value = MA;
+},
+{
+name = "Variable Font File Name";
+value = "Interface-MA";
+},
+{
+name = "Variable Font Family Name";
+value = "Interface MA";
 }
 );
-name = Haasy;
+name = MA;
 type = variable;
 },
 {

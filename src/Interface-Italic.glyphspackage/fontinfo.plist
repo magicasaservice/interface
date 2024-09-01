@@ -4513,10 +4513,18 @@ c2sp
 },
 {
 name = "Export Folder";
-value = haasy;
+value = MA;
+},
+{
+name = "Variable Font File Name";
+value = "Interface-MA-Italic";
+},
+{
+name = "Variable Font Family Name";
+value = "Interface MA Italic";
 }
 );
-name = "Haasy Italic";
+name = "MA Italic";
 type = variable;
 },
 {
