@@ -40,7 +40,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (52,0);
+pos = (63,0);
 ref = commaaccent.ss07;
 }
 );

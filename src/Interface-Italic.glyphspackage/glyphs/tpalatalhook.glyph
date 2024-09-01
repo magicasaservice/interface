@@ -11,7 +11,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (107,-1);
+pos = (70,-7);
 ref = _part.bottom_lfthook_t;
 }
 );
@@ -25,7 +25,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (38,-3);
+pos = (-12,-18);
 ref = _part.bottom_lfthook_t;
 }
 );
@@ -39,7 +39,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (134,6);
+pos = (133,2);
 ref = _part.bottom_lfthook_t;
 }
 );

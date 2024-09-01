@@ -109,7 +109,7 @@ width = 602;
 anchors = (
 {
 name = _top;
-pos = (446,1246);
+pos = (406,1056);
 }
 );
 layerId = m010;
