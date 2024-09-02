@@ -2382,6 +2382,7 @@ value = (
 );
 },
 {
+disabled = 1;
 name = openTypeOS2Panose;
 value = (
 2,
@@ -4515,15 +4516,22 @@ name = "Export Folder";
 value = MA;
 },
 {
-name = "Variable Font File Name";
-value = "Interface-MA";
-},
-{
-name = "Variable Font Family Name";
-value = "Interface MA";
+name = fileName;
+value = "Interface-MA-Variable";
 }
 );
 name = MA;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Interface MA Variable";
+}
+);
+}
+);
 type = variable;
 },
 {

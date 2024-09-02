@@ -4516,15 +4516,22 @@ name = "Export Folder";
 value = MA;
 },
 {
-name = "Variable Font File Name";
-value = "Interface-MA-Italic";
-},
-{
-name = "Variable Font Family Name";
-value = "Interface MA Italic";
+name = fileName;
+value = "Interface-MA-Italic-Variable";
 }
 );
 name = "MA Italic";
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Interface MA Italic Variable";
+}
+);
+}
+);
 type = variable;
 },
 {
